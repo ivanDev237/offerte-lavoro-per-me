@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-10-11T12:21:08.665Z",
+  "generated_at": "2026-10-11T21:39:03.337Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "667101157cf4b20515e2fc293ba113771d99c20e",
+  "catalog_hash": "a78bae179972e2430385152ba7ed188cf2dec861",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 1,
     "aggiornati": 38
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-sicilia-consulente-di-vendita-settore-serramenti-euspert",
+      "nome": "Consulente Di Vendita Settore Serramenti — Euspert",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-di-vendita-settore-serramenti-at-euspert-4477269153",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "05b1beadd52220557bc1ba8b0ef03afde9a8c4dd",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -503,18 +517,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
