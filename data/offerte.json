@@ -4,7 +4,7 @@
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
   "catalog_hash": "667101157cf4b20515e2fc293ba113771d99c20e",
-  "generated_at": "2026-10-11T04:48:32.730Z",
+  "generated_at": "2026-10-11T12:21:08.665Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -23089,7 +23089,7 @@
       "hash_contenuto": "61da7b500ca5c3ec71b723cd8a1184300db84919"
     }
   ],
-  "changed": true,
+  "changed": false,
   "source_errors": [
     {
       "source": "linkedin-lavoro-messina",
