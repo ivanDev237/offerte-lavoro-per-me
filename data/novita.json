@@ -1,34 +1,86 @@
 {
-  "generated_at": "2026-10-14T11:26:38.865Z",
+  "generated_at": "2026-10-14T16:48:20.363Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "b8870ab9af3248485ac0324658e6c5013f2634d2",
+  "catalog_hash": "9ab5c378a6d3da6dcd6b253ffd6bcd00d7385a3c",
   "counts": {
-    "nuovi": 2,
+    "nuovi": 6,
     "aggiornati": 35
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-localita-foggia-occupazione-assistente-amministrativo-posti-1",
-      "nome": "Località Foggia Occupazione assistente amministrativo Posti 1",
+      "id": "linkedin-orfani-guerra-messina-addetto-a-promozione-brand-e-eventi-full-time-reggio-di-calabria-vimik-marketing",
+      "nome": "Addetto/a Promozione Brand e Eventi – Full Time – REGGIO DI CALABRIA — Vimik Marketing srls",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-promozione-brand-e-eventi-%E2%80%93-full-time-%E2%80%93-reggio-di-calabria-at-vimik-marketing-srls-4479501832",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "05a5beec72bc31e61ae90aec699cfe12b5747f8b",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-chef-de-partie-michelin-starred-restarant-season-2027-grand-hotel-timeo-belmond",
+      "nome": "Chef de Partie, Michelin starred Restarant | season 2027 | Grand Hotel Timeo — Belmond",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-partie-michelin-starred-restarant-season-2027-grand-hotel-timeo-at-belmond-4475970435",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "abead1c1f7aab75d5e7061ab88970e79fa5b1675",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-caorle-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Caorle, 1 Istruttore amministrativo-contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/foggia",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-caorle-concorso-istruttore-amministrativo-contabile-venezia-2026",
+      "data_pubblicazione": "2026-11-12",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "96a4875d5e82277379fdd63d98d5112c7949311f",
+      "hash_contenuto": "01e895bd72e3a85a91b81175a71faf32ef283e15",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-unione-montana-potenza-esino-musone-1-istruttore-amministrativo",
-      "nome": "Unione Montana Potenza Esino Musone, 1 Istruttore Amministrativo",
+      "id": "gazzetta-via-concorsipubblici-comune-di-mogliano-veneto-2-istruttore-amministrativo-contabile",
+      "nome": "Comune di Mogliano Veneto, 2 Istruttore Amministrativo-contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-potenza-esino-musone-di-san-severino-marche-concorso-istruttore-amministrativo",
-      "data_pubblicazione": "2026-11-14",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-mogliano-veneto-concorso-istruttore-amministrativo-contabile-treviso-2026",
+      "data_pubblicazione": "2026-11-12",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "530d809cc76216e8abd8fca0c76f0a993506a90b",
+      "hash_contenuto": "bc4fa4b95b90d03f8aa19e71efd182036ab9a516",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-technical-perfumer-lhh",
+      "nome": "Technical Perfumer — LHH",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/technical-perfumer-at-lhh-4479052531",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "3e553fa66cb7a064aac2e26048355a8ea9932bd5",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-comuni-del-sorbara-1-istruttore-amministrativo",
+      "nome": "Unione Comuni Del Sorbara , 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-comuni-del-sorbara-concorso-istruttore-amministrativo-modena-2026",
+      "data_pubblicazione": "2026-11-12",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d48cdda1bd6ddbf71f03fccb34a3527e31833a9a",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -492,14 +544,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
