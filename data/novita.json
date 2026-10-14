@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-10-14T04:06:41.231Z",
+  "generated_at": "2026-10-14T11:26:38.865Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "44a4fe5c45eea143c5c300317f0f67c9d332e0d6",
+  "catalog_hash": "b8870ab9af3248485ac0324658e6c5013f2634d2",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 2,
     "aggiornati": 35
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-foggia-occupazione-assistente-amministrativo-posti-1",
+      "nome": "Località Foggia Occupazione assistente amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/foggia",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "96a4875d5e82277379fdd63d98d5112c7949311f",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-montana-potenza-esino-musone-1-istruttore-amministrativo",
+      "nome": "Unione Montana Potenza Esino Musone, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-potenza-esino-musone-di-san-severino-marche-concorso-istruttore-amministrativo",
+      "data_pubblicazione": "2026-11-14",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "530d809cc76216e8abd8fca0c76f0a993506a90b",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
