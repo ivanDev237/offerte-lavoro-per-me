@@ -1,78 +1,12 @@
 {
-  "generated_at": "2026-10-13T22:24:52.435Z",
+  "generated_at": "2026-10-14T04:06:41.231Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "518e897a8484a4bedeecacad5141a71135881d80",
+  "catalog_hash": "44a4fe5c45eea143c5c300317f0f67c9d332e0d6",
   "counts": {
-    "nuovi": 5,
-    "aggiornati": 36
+    "nuovi": 0,
+    "aggiornati": 35
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-cavallino-treporti-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Cavallino-Treporti, 1 Istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cavallino-treporti-concorso-istruttore-amministrativo-contabile-venezia-2026",
-      "data_pubblicazione": "2026-11-11",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8dbfa9361574bfec11669f23f4636a3daa956af7",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-cavour-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Cavour, 1 Istruttore Amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cavour-concorso-istruttore-amministrativo-contabile-torino-2026",
-      "data_pubblicazione": "2026-11-25",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d5f95aa5e0a520153a4bf7deb8f9375e0b2f3aaa",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-montebelluna-1-istruttore-servizi-amministrativo-contabili",
-      "nome": "Comune di Montebelluna, 1 Istruttore Servizi Amministrativo - Contabili",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-montebelluna-concorso-istruttore-amministrativo-contabile-treviso-2026-0",
-      "data_pubblicazione": "2026-11-11",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e6ad9cdee5052bd85fd54a6e0cc68c94a4dfa73e",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-roma-occupazione-istruttore-amministrativo-posti-3",
-      "nome": "Località Roma Occupazione istruttore amministrativo Posti 3",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/roma",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ad6dd16065b3f82d925c70706344eadefee4359d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-ufficio-d-ambito-della-citta-metropolitana-di-milano-azienda-speciale-1-istrutto",
-      "nome": "Ufficio d’Ambito della Citta’ Metropolitana di Milano – Azienda Speciale, 1 Istruttore Amministrativo Tecnico-Ambientale",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/ambito-territoriale-ottimale-della-citta-metropolitana-di-milano-concorso-istruttore-5",
-      "data_pubblicazione": "2026-11-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "59d833ad600f09932a9ade6f2b699ffabdfe82ea",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -356,19 +290,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "cea6f9c8eaab4556ddcee3a1e5dca48716cf3ebd",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-coordinatore-centro-territoriale-palermo-fondazione-sos-il-telefono-azzurro-ets",
-      "nome": "Coordinatore Centro Territoriale - PALERMO — Fondazione SOS il Telefono Azzurro ETS",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/coordinatore-centro-territoriale-palermo-at-fondazione-sos-il-telefono-azzurro-ets-4439736727",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "f3b34f9a8d25536bb7899aa38bf95c07434a5ada",
       "notifica_topics": [
         "categorie_protette"
       ]
