@@ -1,65 +1,12 @@
 {
-  "generated_at": "2026-10-16T10:59:00.834Z",
+  "generated_at": "2026-10-16T16:18:37.754Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "d3e6f78608370da7f14e6ce4c0ccac997b0af915",
   "counts": {
-    "nuovi": 4,
+    "nuovi": 0,
     "aggiornati": 34
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-fondazione-per-la-ricerca-medica-e-di-sanita-pubblica-gabriele-monasterio-di-pis",
-      "nome": "Fondazione per la Ricerca Medica e di Sanità Pubblica «Gabriele Monasterio» di Pisa, 6 posti per assistente amministrativo e assistente informatico",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/fondazione-la-ricerca-medica-e-di-sanita-pubblica-gabriele-monasterio-di-pisa-concorso-riservato",
-      "data_pubblicazione": "2026-11-12",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "35079b86df3230ac6981777adeb3123ec6218b38",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-pisa-occupazione-assistente-amministrativo-assistente-informatico-posti",
-      "nome": "Località Pisa Occupazione assistente amministrativo assistente informatico Posti 6",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/pisa",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "71539e11991a80b7cd82335f7cce02301a48fe5e",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-provincia-di-viterbo-1-istruttore-amministrativo",
-      "nome": "Provincia di Viterbo, 1 istruttore amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-viterbo-concorso-istruttore-amministrativo-viterbo-2026",
-      "data_pubblicazione": "2026-11-14",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f509c274f1c31b04f8d154d93e658bdd10346ebe",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-provincia-di-viterbo-1-istruttore-dei-servizi-economico-finanziari",
-      "nome": "Provincia di Viterbo, 1 istruttore dei servizi economico-finanziari",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/provincia-di-viterbo-concorso-istruttore-economico-finanziario-viterbo-2026",
-      "data_pubblicazione": "2026-11-14",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ba80ed2004bc2d9bccee058f75d78d0591dd52c5",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
