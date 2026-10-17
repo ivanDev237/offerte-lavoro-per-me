@@ -1,12 +1,65 @@
 {
-  "generated_at": "2026-10-17T15:13:13.691Z",
+  "generated_at": "2026-10-17T20:18:28.128Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "7a46ddfb4e35b366f3d1ffe14cd226c6d34cd317",
+  "catalog_hash": "44e00d2739772e38702a62024d730287ba4832f6",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 4,
     "aggiornati": 34
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-monomandatario-industria-golmar",
+      "nome": "Agente di Commercio Monomandatario | Industria — Golmar",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-monomandatario-industria-at-golmar-4480399972",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "3ec8201fe711e35e2414081344acaaec06c51e44",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-professionista-azienda-agricola-todaro-winery",
+      "nome": "Agente di commercio professionista — Azienda Agricola Todaro Winery",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-professionista-at-azienda-agricola-todaro-winery-4480146543",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "fbcfda06c5e9bff30a4ddbfd71288bf67a48309d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-roncello-2-istruttore-amministrativo-contabile",
+      "nome": "Comune di Roncello, 2 Istruttore Amministrativo Contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-roncello-concorso-istruttore-amministrativo-contabile-monza-e-brianza-2026",
+      "data_pubblicazione": "2026-11-15",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "c0368f035532a559d029f87e556241b477474397",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-responsabile-di-produzione-farmaceutica-pharmaceutical-production-manager-dermoa",
+      "nome": "RESPONSABILE DI PRODUZIONE FARMACEUTICA / PHARMACEUTICAL PRODUCTION MANAGER — Dermoaroma",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/responsabile-di-produzione-farmaceutica-pharmaceutical-production-manager-at-dermoaroma-4479846397",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "addd322c2994981a8f4f84588cc3db25d43a9fac",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -458,10 +511,6 @@
     },
     {
       "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
