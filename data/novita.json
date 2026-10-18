@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-10-18T10:36:24.577Z",
+  "generated_at": "2026-10-18T15:34:54.392Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "7da4923b1a5716cbc6c0049e8d97e7190986d4f1",
+  "catalog_hash": "715d3914efc27c25fca63d6c3abf4f4202e1a044",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 2,
     "aggiornati": 33
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-lavoro-messina-consulente-contabile-cea-caracciolo-errigo-associati",
+      "nome": "Consulente contabile — CEA Caracciolo Errigo & Associati",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-contabile-at-cea-caracciolo-errigo-associati-4478217883",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "f096b53796c9f5b6ea527746aef55528ead38182",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    },
+    {
+      "id": "linkedin-lavoro-messina-consulente-fiscale-consulenteideale",
+      "nome": "Consulente fiscale — Consulenteideale",
+      "tipo": "lavoro",
+      "ente": "LinkedIn",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-fiscale-at-consulenteideale-4480834452",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-lavoro-messina",
+      "hash_contenuto": "6748ff1e29f4a0efbb1f9da3533a7c1dd293b2ee",
+      "notifica_topics": [
+        "offerte_lavoro"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -439,10 +466,6 @@
     }
   ],
   "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
     {
       "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
