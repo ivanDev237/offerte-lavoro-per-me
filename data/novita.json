@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-10-18T15:34:54.392Z",
+  "generated_at": "2026-10-18T20:18:03.268Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "715d3914efc27c25fca63d6c3abf4f4202e1a044",
+  "catalog_hash": "d9a15185635470ca13bd9108566cf366d5320f6d",
   "counts": {
     "nuovi": 2,
     "aggiornati": 33
   },
   "nuovi": [
     {
-      "id": "linkedin-lavoro-messina-consulente-contabile-cea-caracciolo-errigo-associati",
-      "nome": "Consulente contabile — CEA Caracciolo Errigo & Associati",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-contabile-at-cea-caracciolo-errigo-associati-4478217883",
+      "id": "linkedin-orfani-guerra-messina-intermediario-assicurativo-alleanza-assicurazioni-agenzia-milazzo",
+      "nome": "Intermediario assicurativo — Alleanza assicurazioni agenzia milazzo",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/intermediario-assicurativo-4479862491",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "f096b53796c9f5b6ea527746aef55528ead38182",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "dd357499f7b47df39d62316e56bb971eb1a608cd",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-lavoro-messina-consulente-fiscale-consulenteideale",
-      "nome": "Consulente fiscale — Consulenteideale",
-      "tipo": "lavoro",
-      "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-fiscale-at-consulenteideale-4480834452",
+      "id": "linkedin-orfani-guerra-sicilia-staff-cucina-e-sala-orti-villadorata",
+      "nome": "Staff Cucina e Sala — Orti Villadorata",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/staff-cucina-e-sala-4478226899",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "6748ff1e29f4a0efbb1f9da3533a7c1dd293b2ee",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "79b3a47270ce4500dadcdd0d47ea85bb69ea5b36",
       "notifica_topics": [
-        "offerte_lavoro"
+        "categorie_protette"
       ]
     }
   ],
@@ -465,14 +465,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
