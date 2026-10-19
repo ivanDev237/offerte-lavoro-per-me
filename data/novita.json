@@ -1,36 +1,23 @@
 {
-  "generated_at": "2026-10-18T20:18:03.268Z",
+  "generated_at": "2026-10-19T03:51:27.963Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "d9a15185635470ca13bd9108566cf366d5320f6d",
+  "catalog_hash": "8cf7e07d841d71632e3f2b9b4f04369100a67631",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 33
+    "nuovi": 1,
+    "aggiornati": 32
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-intermediario-assicurativo-alleanza-assicurazioni-agenzia-milazzo",
-      "nome": "Intermediario assicurativo — Alleanza assicurazioni agenzia milazzo",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/intermediario-assicurativo-4479862491",
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Milano Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "dd357499f7b47df39d62316e56bb971eb1a608cd",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "5dad7af19ddba64eed9b3706420dad0f342b9bec",
       "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-staff-cucina-e-sala-orti-villadorata",
-      "nome": "Staff Cucina e Sala — Orti Villadorata",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/staff-cucina-e-sala-4478226899",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "79b3a47270ce4500dadcdd0d47ea85bb69ea5b36",
-      "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -270,6 +257,19 @@
       ]
     },
     {
+      "id": "gazzetta-via-concorsipubblici-comune-di-casoria-concorso-per-un-istruttore-multimediale-a-tempo-indeterminato",
+      "nome": "Comune di Casoria, concorso per un istruttore multimediale a tempo indeterminato",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-casoria-concorso-istruttore-amministrativo-istruttore-amministrativo-contabile-napoli",
+      "data_pubblicazione": "2026-10-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "ed841e992aea442a576d13ceeb27cbb21660c3fe",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-comune-di-san-dona-di-piave-1-istruttore-servizi-amministrativo-contabili",
       "nome": "Comune di San Dona’ di Piave , 1 Istruttore Servizi Amministrativo-contabili",
       "tipo": "concorso",
@@ -382,32 +382,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "3585e9bb0ce0eb67c72e4ce8fb6ed04a0a3fefea",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-procedura-di-mobilita-volontaria-per-l-immissione-nel-ruolo-unico-del-ministero-",
-      "nome": "Procedura di mobilità volontaria per l’immissione nel ruolo unico del Ministero dell’economia e delle finanze di n. 122 funzionari — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/procedura-di-mobilit%C3%A0-volontaria-per-l%E2%80%99immissione-nel-ruolo-unico-del-ministero-dell%E2%80%99economia-e-delle-finanze-di-n-122-funzionari-at-dipartimento-della-funzione-pubblica-4448783794",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7b35fe3e0198ab0c58005173d5dc0ffc934f494c",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-procedura-di-mobilita-volontaria-per-l-immissione-nel-ruolo-unico-del-ministero-",
-      "nome": "Procedura di mobilità volontaria per l’immissione nel ruolo unico del Ministero dell’economia e delle finanze di n. 122 funzionari — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/procedura-di-mobilit%C3%A0-volontaria-per-l%E2%80%99immissione-nel-ruolo-unico-del-ministero-dell%E2%80%99economia-e-delle-finanze-di-n-122-funzionari-at-dipartimento-della-funzione-pubblica-4448785783",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "ccf45c95a2c41826cc364e2d8170684df1046e26",
       "notifica_topics": [
         "categorie_protette"
       ]
