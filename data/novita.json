@@ -1,23 +1,101 @@
 {
-  "generated_at": "2026-10-19T03:51:27.963Z",
+  "generated_at": "2026-10-19T12:33:20.127Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "8cf7e07d841d71632e3f2b9b4f04369100a67631",
+  "catalog_hash": "c1a1b27f7fbbc19762a8201d4e1b1845ae36b797",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 7,
     "aggiornati": 32
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Milano Occupazione istruttore amministrativo Posti 1",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-adrano-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Adrano — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-adrano-at-gens-aurea-s-p-a-4480980019",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "560cd5a11a03561865d9ed4a22bb157bf4d6ccfd",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4480979082",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "d5aaf71135a4c5f09787550d9abbd660cebb077d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-medolago-1-istruttore-contabile-tributario",
+      "nome": "Comune di Medolago, 1 istruttore contabile tributario",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-medolago-concorso-istruttore-contabile-bergamo-2026",
+      "data_pubblicazione": "2026-11-16",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5dad7af19ddba64eed9b3706420dad0f342b9bec",
+      "hash_contenuto": "40eb04b7b151a469833292a2a7983042941b2341",
       "notifica_topics": [
         "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-san-maurizio-canavese-2-istruttore-amministrativo",
+      "nome": "Comune di San Maurizio Canavese , 2 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-maurizio-canavese-concorso-istruttore-amministrativo-torino-2026",
+      "data_pubblicazione": "2026-11-15",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "fbaf745e0b04cdab9de3aedda5a3cc5ca2c9578a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-bergamo-occupazione-istruttore-contabile-posti-1",
+      "nome": "Località Bergamo Occupazione istruttore contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bergamo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "e30bd340b55cff832417bc53abcc29b6904b45a3",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-istruttore-amministrativo-posti-2",
+      "nome": "Località Torino Occupazione istruttore amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/torino",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "64a3483e88c04cd4cfa4cf95d369fe78635f3983",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-sales-assistant-gutteridge-palermo-gutteridge-1878",
+      "nome": "SALES ASSISTANT GUTTERIDGE PALERMO — Gutteridge 1878",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/sales-assistant-gutteridge-palermo-at-gutteridge-1878-4458180367",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "ea0d95aac897fc53c240bdac5e9a7851dd1df95f",
+      "notifica_topics": [
+        "categorie_protette"
       ]
     }
   ],
@@ -257,14 +335,14 @@
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-casoria-concorso-per-un-istruttore-multimediale-a-tempo-indeterminato",
-      "nome": "Comune di Casoria, concorso per un istruttore multimediale a tempo indeterminato",
+      "id": "gazzetta-via-concorsipubblici-comune-di-bucine-concorso-per-un-istruttore-amministrativo-part-time-a-tempo-ind",
+      "nome": "Comune di Bucine, concorso per un istruttore amministrativo part-time a tempo indeterminato",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-casoria-concorso-istruttore-amministrativo-istruttore-amministrativo-contabile-napoli",
-      "data_pubblicazione": "2026-10-18",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-bucine-concorso-istruttore-amministrativo-arezzo-2026-0",
+      "data_pubblicazione": "2026-11-18",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ed841e992aea442a576d13ceeb27cbb21660c3fe",
+      "hash_contenuto": "92cf7e4b9fd0c856b3a4a5f06ef2e0211c7b9d9e",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -439,5 +517,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    }
+  ]
 }
