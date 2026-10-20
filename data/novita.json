@@ -1,12 +1,143 @@
 {
-  "generated_at": "2026-10-20T11:07:56.416Z",
+  "generated_at": "2026-10-20T16:33:27.208Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "8c8a686ff445da614728184c31e71e47d636e3ec",
+  "catalog_hash": "38e32ec5c411a705c18ffb9a0598f1f5e500351d",
   "counts": {
-    "nuovi": 0,
-    "aggiornati": 33
+    "nuovi": 10,
+    "aggiornati": 34
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-messina-addetto-a-alla-contabilita-e-fatturazione-attiva-messina-zenith-services-group-s",
+      "nome": "Addetto/a alla Contabilità e Fatturazione Attiva – Messina — Zenith Services Group SpA",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-alla-contabilit%C3%A0-e-fatturazione-attiva-%E2%80%93-messina-at-zenith-services-group-spa-4478850659",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "91df88bbe24e783b19408ffeb28bb6051df2ba00",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4480979082",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "d5aaf71135a4c5f09787550d9abbd660cebb077d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-assistente-silver-cafe-capo-d-orlando",
+      "nome": "Assistente — Silver cafè Capo D'Orlando",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-4478614941",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "ec0369ead66223f1f3cb62413247560ceae9b723",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
+      "nome": "Chef de Rang (M/W) — Capofaro Resort Relais & Chateaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-capofaro-resort-relais-chateaux-4471616719",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "af6e336bdf92abcbf092b713bdca471d7b104d3a",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-relais-chateaux",
+      "nome": "Chef de Rang (M/W) — Relais & Châteaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-relais-ch%C3%A2teaux-4469731738",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "5c8b8dcd2184184ab3d03eac88ea5ea50f68acf1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-beinasco-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Beinasco, 1 Istruttore Amministrativo-contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-beinasco-concorso-riservato-istruttore-amministrativo-contabile-torino-2026-0",
+      "data_pubblicazione": "2026-11-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d9deb12538ce1cffe022fecace5a8c9907c925d0",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-branzi-1-istruttore-amministrativo",
+      "nome": "Comune di Branzi, 1 Istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-branzi-concorso-istruttore-amministrativo-bergamo-2026",
+      "data_pubblicazione": "2026-11-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "1b610ba8574e43e4602aea5880945b9468c5b44a",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-trezzano-sul-naviglio-3-istruttore-contabile",
+      "nome": "Comune di Trezzano Sul Naviglio, 3 Istruttore Contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-trezzano-sul-naviglio-concorso-istruttore-contabile-milano-2026",
+      "data_pubblicazione": "2026-11-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "aa2a95ce9b25cc07fa5653368acdaddc7381d5b9",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-front-office-manager-relais-chateaux",
+      "nome": "Front Office Manager — Relais & Châteaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-manager-at-relais-ch%C3%A2teaux-4474078660",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "30b121470a0e446683182d0f9cf3b6afc1165272",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-venditore-azienda",
+      "nome": "Venditore — azienda",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/venditore-4480244401",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "eba2eee211ba79fcb6503d4c759f6a0d683affd9",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -212,6 +343,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "a1bc4f229ff679575de46d840864c7214a935f47",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-bando-40-2026-avviso-di-mobilita-esterna-volontaria-ai-sensi-dell-art-30-del-d-l",
+      "nome": "Bando 40/2026 - Avviso di mobilità esterna volontaria ai sensi dell’art. 30 del D. Lgs. 165/2001, per la copertura di 1 Collaboratore TER – CCNL Istruzione e Ricerca - presso l'OGS. — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-40-2026-avviso-di-mobilit%C3%A0-esterna-volontaria-ai-sensi-dell%E2%80%99art-30-del-d-lgs-165-2001-per-la-copertura-di-1-collaboratore-ter-%E2%80%93-ccnl-istruzione-e-ricerca-presso-l-ogs-at-dipartimento-della-funzione-pubblica-4474074351",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "6bdf513b30005a048a4b551671ffa7a34b5c9db3",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -441,14 +585,6 @@
   "errori_fonti": [
     {
       "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
