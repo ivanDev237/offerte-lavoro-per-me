@@ -1,112 +1,99 @@
 {
-  "generated_at": "2026-10-21T03:52:12.513Z",
+  "generated_at": "2026-10-21T11:24:17.621Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "3fd66eb12999eab6ece015b4af4a470abd3eeb9c",
+  "catalog_hash": "042bcdeb0cd6b8e6ca37003c60e23cc83ce2e650",
   "counts": {
-    "nuovi": 8,
+    "nuovi": 7,
     "aggiornati": 31
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-assistente-silver-cafe-capo-d-orlando",
-      "nome": "Assistente — Silver cafè Capo D'Orlando",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/assistente-4478614941",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "ec0369ead66223f1f3cb62413247560ceae9b723",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-bando-40-2026-avviso-di-mobilita-esterna-volontaria-ai-sensi-dell-art-30-del-d-l",
-      "nome": "Bando 40/2026 - Avviso di mobilità esterna volontaria ai sensi dell’art. 30 del D. Lgs. 165/2001, per la copertura di 1 Collaboratore TER – CCNL Istruzione e Ricerca - presso l'OGS. — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-40-2026-avviso-di-mobilit%C3%A0-esterna-volontaria-ai-sensi-dell%E2%80%99art-30-del-d-lgs-165-2001-per-la-copertura-di-1-collaboratore-ter-%E2%80%93-ccnl-istruzione-e-ricerca-presso-l-ogs-at-dipartimento-della-funzione-pubblica-4474074351",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "6bdf513b30005a048a4b551671ffa7a34b5c9db3",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
-      "nome": "Chef de Rang (M/W) — Capofaro Resort Relais & Chateaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-capofaro-resort-relais-chateaux-4471616719",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "af6e336bdf92abcbf092b713bdca471d7b104d3a",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-relais-chateaux",
-      "nome": "Chef de Rang (M/W) — Relais & Châteaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-relais-ch%C3%A2teaux-4469731738",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "5c8b8dcd2184184ab3d03eac88ea5ea50f68acf1",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-carugate-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Carugate, 1 Istruttore Amministrativo Contabile",
+      "id": "gazzetta-via-concorsipubblici-agenzia-delle-entrate-662-posti-di-assistente-gestionale-riapertura-termini",
+      "nome": "Agenzia delle Entrate, 662 posti di assistente gestionale (riapertura termini)",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-carugate-concorso-istruttore-amministrativo-contabile-milano-2026-1",
-      "data_pubblicazione": "2026-10-20",
+      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-delle-entrate-concorso-riservato-assistente-istruttore-gestionale-assistente-amministrativo",
+      "data_pubblicazione": "2026-11-19",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "4699a04a39052c7eb76cf30c71cd648ef0c99143",
+      "hash_contenuto": "5893b413386677b789c61e4d43b81287cdd9f774",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-contabile-fiscale-orecchio-partners",
-      "nome": "Contabile fiscale — Orecchio & partners",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-fiscale-4478618448",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "0f770411c9c5cc8ee029ee382d8d76aba62ae30c",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-front-office-manager-relais-chateaux",
-      "nome": "Front Office Manager — Relais & Châteaux",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-manager-at-relais-ch%C3%A2teaux-4474078660",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "30b121470a0e446683182d0f9cf3b6afc1165272",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-contabile-posti-1",
-      "nome": "Località Milano Occupazione istruttore amministrativo contabile Posti 1",
+      "id": "gazzetta-via-concorsipubblici-assistente-istruttore-gestionale-assistente-amministrativo",
+      "nome": "assistente istruttore gestionale assistente amministrativo",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/assistente-679",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f2ee1698a6c0391c43ee700d7ebd0840c6e0a52e",
+      "hash_contenuto": "dd95ffb83dd8abf339dcedf99099e23838763735",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-salerno-concorso-per-10-istruttori-amministrativi-a-tempo-indeterminat",
+      "nome": "Comune di Salerno, concorso per 10 istruttori amministrativi a tempo indeterminato",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-salerno-concorso-istruttore-amministrativo-salerno-2026",
+      "data_pubblicazione": "2026-11-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "82f12969da3b340b28599a465d6b016258a85ec2",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-salerno-concorso-per-7-istruttori-contabili-a-tempo-indeterminato",
+      "nome": "Comune di Salerno, concorso per 7 istruttori contabili a tempo indeterminato",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-salerno-concorso-istruttore-contabile-salerno-2026",
+      "data_pubblicazione": "2026-11-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "8409f7850de12592feccbc059ed24b1b38da9eca",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-sarnico-1-istruttore-amministrativo",
+      "nome": "Comune di Sarnico, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sarnico-concorso-istruttore-amministrativo-bergamo-2026",
+      "data_pubblicazione": "2026-11-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "a83707c6d1d42e2414500887cb61fda8f5e2c5f3",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-salerno-occupazione-istruttore-contabile-posti-7",
+      "nome": "Località Salerno Occupazione istruttore contabile Posti 7",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/salerno",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "66608d3d3062da9bdfb09d74ef7923039f0738f4",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Torino Occupazione istruttore amministrativo contabile Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/torino",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "42e233389d55c9e44076bd540f365259c1150bc0",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -520,6 +507,10 @@
   "errori_fonti": [
     {
       "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
     },
     {

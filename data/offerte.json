@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-10-21",
-  "versione": 435,
+  "versione": 436,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "3fd66eb12999eab6ece015b4af4a470abd3eeb9c",
-  "generated_at": "2026-10-21T03:52:12.512Z",
+  "catalog_hash": "042bcdeb0cd6b8e6ca37003c60e23cc83ce2e650",
+  "generated_at": "2026-10-21T11:24:17.620Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -2832,6 +2832,58 @@
       "hash_contenuto": "184a2f392768a45f4d28285287c682243a6de7ef"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-agenzia-delle-entrate-662-posti-di-assistente-gestionale-riapertura-termini",
+      "nome": "Agenzia delle Entrate, 662 posti di assistente gestionale (riapertura termini)",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione",
+        "consulenza-informatica"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Agenzia delle Entrate, 662 posti di assistente gestionale (riapertura termini) Ente Agenzia delle Entrate Scadenza 19/11/2026 Dettagli Località Tutta Italia Occupazione assistente istruttore gestionale assistente amministrativo Posti 662 RIAPERTURA – Agenzia d",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-11-19",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/agenzia-delle-entrate-concorso-riservato-assistente-istruttore-gestionale-assistente-amministrativo",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-11-19",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-10-21",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "5893b413386677b789c61e4d43b81287cdd9f774"
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-agenzia-regionale-per-la-prevenzione-e-protezione-ambientale-del-veneto-1-collab",
       "nome": "Agenzia Regionale per la Prevenzione e Protezione Ambientale del Veneto, 1 Collaboratore Amministrativo Professionale",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -4043,6 +4095,52 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "0e4a658145a6924ccbe61008323ee216ed6af666"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-assistente-istruttore-gestionale-assistente-amministrativo",
+      "nome": "assistente istruttore gestionale assistente amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione",
+        "consulenza-informatica"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "assistente",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/assistente-679",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-10-21",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "dd95ffb83dd8abf339dcedf99099e23838763735"
     },
     {
       "id": "linkedin-orfani-guerra-sicilia-assistente-sociale-fondazione-cirino-la-rosa-ets",
@@ -9048,6 +9146,108 @@
       "hash_contenuto": "3ef5e840abafa1f07f19bd241a9e3392fa459fc5"
     },
     {
+      "id": "gazzetta-via-concorsipubblici-comune-di-salerno-concorso-per-10-istruttori-amministrativi-a-tempo-indeterminat",
+      "nome": "Comune di Salerno, concorso per 10 istruttori amministrativi a tempo indeterminato",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Salerno, concorso per 10 istruttori amministrativi a tempo indeterminato Ente Comune di Salerno Scadenza 18/11/2026 Dettagli Località Salerno Occupazione istruttore amministrativo Posti 10 Il Comune di Salerno ha indetto un concorso pubblico, per esa",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-11-18",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-salerno-concorso-istruttore-amministrativo-salerno-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-11-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-10-21",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "82f12969da3b340b28599a465d6b016258a85ec2"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-salerno-concorso-per-7-istruttori-contabili-a-tempo-indeterminato",
+      "nome": "Comune di Salerno, concorso per 7 istruttori contabili a tempo indeterminato",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Salerno, concorso per 7 istruttori contabili a tempo indeterminato Ente Comune di Salerno Scadenza 18/11/2026 Dettagli Località Salerno Occupazione istruttore contabile Posti 7 Concorso pubblico, per esami, per il conferimento a tempo pieno ed indete",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-11-18",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-salerno-concorso-istruttore-contabile-salerno-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-11-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-10-21",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "8409f7850de12592feccbc059ed24b1b38da9eca"
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-comune-di-san-dona-di-piave-1-istruttore-servizi-amministrativo-contabili",
       "nome": "Comune di San Dona’ di Piave , 1 Istruttore Servizi Amministrativo-contabili",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
@@ -9352,6 +9552,57 @@
         "concorsi_pubblici"
       ],
       "hash_contenuto": "cfebd97c1744abe45c460d42c924b4713f340972"
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-sarnico-1-istruttore-amministrativo",
+      "nome": "Comune di Sarnico, 1 Istruttore Amministrativo",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "tipo": "concorso",
+      "aree": [
+        "contabilita",
+        "amministrazione"
+      ],
+      "stato": "aperto",
+      "sede": "Italia",
+      "modalita": "",
+      "contratto": "",
+      "retribuzione": "",
+      "descrizione_breve": "Comune di Sarnico, 1 Istruttore Amministrativo Ente Comune di Sarnico Scadenza 18/11/2026 Dettagli Località Bergamo Occupazione istruttore amministrativo Posti 1 Il Comune di Sarnico indice un concorso pubblico, per soli esami, per l’assunzione a tempo determi",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Italia.",
+      "scadenze": [
+        {
+          "fase": "Invio candidatura",
+          "data": "2026-11-18",
+          "note": ""
+        }
+      ],
+      "requisiti": [
+        "Verificare requisiti sull'annuncio ufficiale"
+      ],
+      "documenti": [
+        "Curriculum aggiornato"
+      ],
+      "profili": [
+        "Profilo contabile/amministrativo"
+      ],
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sarnico-concorso-istruttore-amministrativo-bergamo-2026",
+      "checklist": [
+        "Aprire il bando ufficiale e leggere requisiti e riserve",
+        "Verificare titolo di studio e requisiti generali",
+        "Preparare SPID e documentazione",
+        "Presentare domanda (inPA) entro la scadenza"
+      ],
+      "regioni_ammesse": [
+        "tutta_italia"
+      ],
+      "data_pubblicazione": "2026-11-18",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
+      "rilevato_il": "2026-10-21",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ],
+      "hash_contenuto": "a83707c6d1d42e2414500887cb61fda8f5e2c5f3"
     },
     {
       "id": "gazzetta-via-concorsipubblici-comune-di-sindia-1-istruttore-amministrativo-contabile",
@@ -15766,8 +16017,8 @@
       "hash_contenuto": "b94c85373faa88d7abd78ea556cbf447f2d6ad84"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-salerno-occupazione-collaboratore-amministrativo-posti-2",
-      "nome": "Località Salerno Occupazione collaboratore amministrativo Posti 2",
+      "id": "gazzetta-via-concorsipubblici-localita-salerno-occupazione-istruttore-contabile-posti-7",
+      "nome": "Località Salerno Occupazione istruttore contabile Posti 7",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -15804,11 +16055,11 @@
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "url_origine": "https://www.concorsipubblici.com/concorsi/gazzetta-ufficiale",
-      "rilevato_il": "2026-10-09",
+      "rilevato_il": "2026-10-21",
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "fc8e3129218a01933a1b5456fe02914f6457f97b"
+      "hash_contenuto": "66608d3d3062da9bdfb09d74ef7923039f0738f4"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-sassari-occupazione-istruttore-amministrativo-posti-1",
@@ -16081,8 +16332,8 @@
       "hash_contenuto": "938e53302e7135e36089a6e29f8cffda107187fc"
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-istruttore-amministrativo-posti-2",
-      "nome": "Località Torino Occupazione istruttore amministrativo Posti 2",
+      "id": "gazzetta-via-concorsipubblici-localita-torino-occupazione-istruttore-amministrativo-contabile-posti-1",
+      "nome": "Località Torino Occupazione istruttore amministrativo contabile Posti 1",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
       "tipo": "concorso",
       "aree": [
@@ -16123,7 +16374,7 @@
       "notifica_topics": [
         "concorsi_pubblici"
       ],
-      "hash_contenuto": "64a3483e88c04cd4cfa4cf95d369fe78635f3983"
+      "hash_contenuto": "42e233389d55c9e44076bd540f365259c1150bc0"
     },
     {
       "id": "gazzetta-via-concorsipubblici-localita-toscana-occupazione-collaboratore-amministrativo-posti-1",
@@ -22372,6 +22623,10 @@
   "source_errors": [
     {
       "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
     },
     {
