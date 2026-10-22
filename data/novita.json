@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-10-21T21:24:36.280Z",
+  "generated_at": "2026-10-22T03:52:05.730Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "c4da2e04ff0b74c2a3dfbf65d4387f09aac5449b",
+  "catalog_hash": "bf0b25bc73922e6a49dadb5d28b367392d5976e8",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 1,
     "aggiornati": 33
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-contabile-posti-3",
+      "nome": "Località Milano Occupazione istruttore contabile Posti 3",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "62dd350890beb9bf35e1a8cafe8d76cea436d427",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -438,5 +452,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    }
+  ]
 }
