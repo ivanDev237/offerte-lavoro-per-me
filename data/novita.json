@@ -1,21 +1,125 @@
 {
-  "generated_at": "2026-10-22T03:52:05.730Z",
+  "generated_at": "2026-10-22T11:24:06.814Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "bf0b25bc73922e6a49dadb5d28b367392d5976e8",
+  "catalog_hash": "1475442b7466118bccc17bb37af5269714917e88",
   "counts": {
-    "nuovi": 1,
-    "aggiornati": 33
+    "nuovi": 9,
+    "aggiornati": 34
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-contabile-posti-3",
-      "nome": "Località Milano Occupazione istruttore contabile Posti 3",
+      "id": "linkedin-orfani-guerra-sicilia-autista-professionista-autista",
+      "nome": "Autista professionista — autista",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/autista-professionista-4480003288",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "a1f984306b3987d3e5cbd933b293009959314b2e",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-baveno-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Baveno, 1 Istruttore Amministrativo- Contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-baveno-concorso-istruttore-amministrativo-contabile-verbano-cusio-ossola-2026",
+      "data_pubblicazione": "2026-11-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "d631b09c95e707b06d02e83fcefc4cde5b17a903",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-cesano-boscone-2-istruttore-amministrativo",
+      "nome": "Comune di Cesano Boscone, 2 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cesano-boscone-concorso-istruttore-amministrativo-milano-2026-0",
+      "data_pubblicazione": "2026-11-19",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "009a6f16ad95be2b2188e8584f97a076965d2ebc",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-trezzano-sul-naviglio-3-istruttore-amministrativo-suap",
+      "nome": "Comune di Trezzano Sul Naviglio, 3 Istruttore Amministrativo SUAP",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-trezzano-sul-naviglio-concorso-istruttore-amministrativo-milano-2026-0",
+      "data_pubblicazione": "2026-11-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "e63e98e15a145523dcf944118550287e75daf8b0",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-belluno-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Belluno Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/belluno",
       "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "62dd350890beb9bf35e1a8cafe8d76cea436d427",
+      "hash_contenuto": "0a9bd3d73bbd8711d342c26a7a773fa4d56de074",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-bergamo-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Bergamo Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bergamo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "dde0c0fbf59f29e433dc360ba082f2fad78a4826",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-genova-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Genova Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/genova",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "4e7ae45c9179b309a8d38b5e5a847d294a2e7380",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-regione-liguria-1-istruttore-servizi-amministrativi",
+      "nome": "Regione Liguria, 1 Istruttore servizi amministrativi",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/regione-liguria-concorso-istruttore-amministrativo-genova-2026",
+      "data_pubblicazione": "2026-11-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "90c69674d49624b888c66ede7c270fc612ededd0",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo",
+      "nome": "Unione Montana Feltrina, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-belluno-2026-3",
+      "data_pubblicazione": "2026-11-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "3b819ac7f213123155d8f213fc137951e3a8162f",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -450,12 +554,20 @@
       "notifica_topics": [
         "concorsi_pubblici"
       ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo-contabile",
+      "nome": "Unione Montana Feltrina, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-contabile-belluno-2026-4",
+      "data_pubblicazione": "2026-11-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "6235eabed682a83b49b1d28ad81feee96546889c",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
