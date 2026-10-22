@@ -1,125 +1,138 @@
 {
-  "generated_at": "2026-10-22T11:24:06.814Z",
+  "generated_at": "2026-10-22T16:51:04.546Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "1475442b7466118bccc17bb37af5269714917e88",
+  "catalog_hash": "a8c9727717b22e9fd3cfed3f3fe353fbe553ba7e",
   "counts": {
-    "nuovi": 9,
-    "aggiornati": 34
+    "nuovi": 10,
+    "aggiornati": 35
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-sicilia-autista-professionista-autista",
-      "nome": "Autista professionista — autista",
+      "id": "linkedin-orfani-guerra-messina-addett-vendite-cx-team-member-foot-locker",
+      "nome": "Addett* Vendite (CX Team Member) — Foot Locker",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/autista-professionista-4480003288",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addett-vendite-cx-team-member-at-foot-locker-4421134884",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "a1f984306b3987d3e5cbd933b293009959314b2e",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "8b3835f640d66323867305f995b7014f35d03445",
       "notifica_topics": [
         "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-baveno-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Baveno, 1 Istruttore Amministrativo- Contabile",
+      "id": "gazzetta-via-concorsipubblici-asst-centro-specialistico-ortopedico-traumatologico-gaetano-pini-cto-1-collabora",
+      "nome": "Asst Centro Specialistico Ortopedico Traumatologico Gaetano Pini Cto, 1 Collaboratore Amministrativo Professionale",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-baveno-concorso-istruttore-amministrativo-contabile-verbano-cusio-ossola-2026",
+      "link_ufficiale": "https://www.concorsipubblici.com/istituto-ortopedico-gaetano-pini-di-milano-concorso-collaboratore-amministrativo-professionale-0",
       "data_pubblicazione": "2026-11-20",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "d631b09c95e707b06d02e83fcefc4cde5b17a903",
+      "hash_contenuto": "53e57d0d0708200887d40023bad9634baced5a27",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-cesano-boscone-2-istruttore-amministrativo",
-      "nome": "Comune di Cesano Boscone, 2 Istruttore Amministrativo",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-cesano-boscone-concorso-istruttore-amministrativo-milano-2026-0",
-      "data_pubblicazione": "2026-11-19",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "009a6f16ad95be2b2188e8584f97a076965d2ebc",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-trezzano-sul-naviglio-3-istruttore-amministrativo-suap",
-      "nome": "Comune di Trezzano Sul Naviglio, 3 Istruttore Amministrativo SUAP",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-trezzano-sul-naviglio-concorso-istruttore-amministrativo-milano-2026-0",
-      "data_pubblicazione": "2026-11-20",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e63e98e15a145523dcf944118550287e75daf8b0",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-belluno-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Belluno Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/belluno",
+      "id": "linkedin-orfani-guerra-messina-bando-40-2026-avviso-di-mobilita-esterna-volontaria-ai-sensi-dell-art-30-del-d-l",
+      "nome": "Bando 40/2026 - Avviso di mobilità esterna volontaria ai sensi dell’art. 30 del D. Lgs. 165/2001, per la copertura di 1 Collaboratore TER – CCNL Istruzione e Ricerca - presso l'OGS. — Dipartimento della Funzione Pubblica",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-40-2026-avviso-di-mobilit%C3%A0-esterna-volontaria-ai-sensi-dell%E2%80%99art-30-del-d-lgs-165-2001-per-la-copertura-di-1-collaboratore-ter-%E2%80%93-ccnl-istruzione-e-ricerca-presso-l-ogs-at-dipartimento-della-funzione-pubblica-4474074351",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "0a9bd3d73bbd8711d342c26a7a773fa4d56de074",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "6bdf513b30005a048a4b551671ffa7a34b5c9db3",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-bergamo-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Bergamo Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/bergamo",
+      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
+      "nome": "Chef de Rang (M/W) — Capofaro Resort Relais & Chateaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-capofaro-resort-relais-chateaux-4471616719",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "dde0c0fbf59f29e433dc360ba082f2fad78a4826",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "af6e336bdf92abcbf092b713bdca471d7b104d3a",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-genova-occupazione-istruttore-amministrativo-posti-1",
-      "nome": "Località Genova Occupazione istruttore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/genova",
+      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-relais-chateaux",
+      "nome": "Chef de Rang (M/W) — Relais & Châteaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/chef-de-rang-m-w-at-relais-ch%C3%A2teaux-4469731738",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "4e7ae45c9179b309a8d38b5e5a847d294a2e7380",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "5c8b8dcd2184184ab3d03eac88ea5ea50f68acf1",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-comune-di-mascalucia-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Mascalucia, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-mascalucia-concorso-istruttore-amministrativo-contabile-catania-2026",
+      "data_pubblicazione": "2026-11-02",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "ad6fe091f68cb2ebeda3ec4efec58276991865a0",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-regione-liguria-1-istruttore-servizi-amministrativi",
-      "nome": "Regione Liguria, 1 Istruttore servizi amministrativi",
+      "id": "linkedin-orfani-guerra-messina-front-office-manager-capofaro-resort-relais-chateaux",
+      "nome": "Front Office Manager — Capofaro Resort Relais & Chateaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-manager-at-capofaro-resort-relais-chateaux-4476338132",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "2270aefe1ca9292da92c339ee3eb5a0c120ff924",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-front-office-manager-relais-chateaux",
+      "nome": "Front Office Manager — Relais & Châteaux",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/front-office-manager-at-relais-ch%C3%A2teaux-4474078660",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "30b121470a0e446683182d0f9cf3b6afc1165272",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-istruttore-amministrativo-contabile",
+      "nome": "istruttore amministrativo contabile",
       "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/regione-liguria-concorso-istruttore-amministrativo-genova-2026",
-      "data_pubblicazione": "2026-11-20",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "90c69674d49624b888c66ede7c270fc612ededd0",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/istruttore-amministrativo-contabile-334",
+      "data_pubblicazione": "",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "90b54c7b1672b03a4ad2f52af63295e5c63cec1b",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo",
-      "nome": "Unione Montana Feltrina, 1 istruttore amministrativo",
+      "id": "concorsipubblici-sicilia-localita-palermo-occupazione-collaboratore-amministrativo-posti-1",
+      "nome": "Località Palermo Occupazione collaboratore amministrativo Posti 1",
       "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-belluno-2026-3",
-      "data_pubblicazione": "2026-11-20",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "3b819ac7f213123155d8f213fc137951e3a8162f",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/palermo",
+      "data_pubblicazione": "",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "4df69a9726acc9d341383919bb3aabc4c17bc113",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -213,6 +226,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4480979082",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "d5aaf71135a4c5f09787550d9abbd660cebb077d",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -322,19 +348,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-bando-40-2026-avviso-di-mobilita-esterna-volontaria-ai-sensi-dell-art-30-del-d-l",
-      "nome": "Bando 40/2026 - Avviso di mobilità esterna volontaria ai sensi dell’art. 30 del D. Lgs. 165/2001, per la copertura di 1 Collaboratore TER – CCNL Istruzione e Ricerca - presso l'OGS. — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/bando-40-2026-avviso-di-mobilit%C3%A0-esterna-volontaria-ai-sensi-dell%E2%80%99art-30-del-d-lgs-165-2001-per-la-copertura-di-1-collaboratore-ter-%E2%80%93-ccnl-istruzione-e-ricerca-presso-l-ogs-at-dipartimento-della-funzione-pubblica-4474074351",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "6bdf513b30005a048a4b551671ffa7a34b5c9db3",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-barbieri-per-i-paesi-nordici-eutalents",
       "nome": "Barbieri per i paesi nordici — EUTALENTS",
       "tipo": "categoria_protetta",
@@ -356,6 +369,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "681791e3a5584a30414d5d66a9d45590f7c1cee4",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-messina-barbieri-per-i-paesi-nordici-eutalents",
+      "nome": "Barbieri per i paesi nordici — EUTALENTS",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/barbieri-per-i-paesi-nordici-at-eutalents-4450925734",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
+      "hash_contenuto": "4b41f936822402be54441fe0fc3fdf9dd74f1ef9",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -423,19 +449,6 @@
       "hash_contenuto": "7174707ff328ca2baa5515e01b00d5792ffb8239",
       "notifica_topics": [
         "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-istruttore-amministrativo-contabile",
-      "nome": "istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/istruttore-amministrativo-contabile-334",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "83a35ddf8263c941cc47a4e9b68e8e646f12fc1b",
-      "notifica_topics": [
-        "concorsi_pubblici"
       ]
     },
     {
@@ -543,6 +556,19 @@
       ]
     },
     {
+      "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo",
+      "nome": "Unione Montana Feltrina, 1 istruttore amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-belluno-2026-4",
+      "data_pubblicazione": "2026-11-20",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "7400c4cdea3bae553b4236c4caa175bbc3429737",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
       "id": "gazzetta-via-concorsipubblici-unione-montana-feltrina-1-istruttore-amministrativo-contabile",
       "nome": "Unione Montana Feltrina, 1 istruttore amministrativo contabile",
       "tipo": "concorso",
@@ -560,14 +586,19 @@
       "nome": "Unione Montana Feltrina, 1 istruttore amministrativo contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-contabile-belluno-2026-4",
-      "data_pubblicazione": "2026-11-20",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-montana-feltrina-feltre-concorso-istruttore-amministrativo-contabile-belluno-2026-2",
+      "data_pubblicazione": "2026-11-06",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6235eabed682a83b49b1d28ad81feee96546889c",
+      "hash_contenuto": "1978566ffd6a480b3233a203b12e88ef4b294aa3",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
