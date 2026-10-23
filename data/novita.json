@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-10-23T16:42:38.548Z",
+  "generated_at": "2026-10-23T21:09:27.446Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "07d86414e4e11293dd7264a8fcd63de46021f355",
+  "catalog_hash": "1ec6e4f84b1c7ba465d9609917ec1ad7b03558ef",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 36
+    "nuovi": 0,
+    "aggiornati": 37
   },
-  "nuovi": [
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-modena-occupazione-istruttore-contabile-posti-1",
-      "nome": "Località Modena Occupazione istruttore contabile Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/modena",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "ae3e4a4035e9b44310944254542a61d1ee933992",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-del-distretto-ceramico-1-istruttore-contabile",
-      "nome": "Unione Dei Comuni del Distretto Ceramico , 1 Istruttore Contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-del-distretto-ceramico-concorso-istruttore-contabile-modena-2026-2",
-      "data_pubblicazione": "2026-11-23",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "0e204d75727a934e22b241690cec08eed81df2a9",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -135,6 +108,19 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
       "hash_contenuto": "32fe1c60afe5be75b250cc64aa40fd4a0df07740",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-monomandatario-food-golmar",
+      "nome": "Agente di Commercio Monomandatario | Food — Golmar",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-monomandatario-food-at-golmar-4483117214",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "19a5ee23dd4bba8e73f5d15c4007984f0f3de51b",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -510,12 +496,16 @@
       "message": "HTTP 429"
     },
     {
+      "source": "regione-sicilia-concorsi",
+      "message": "fetch failed"
+    },
+    {
       "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
     },
     {
-      "source": "linkedin-orfani-guerra-sicilia",
-      "message": "HTTP 429"
+      "source": "regione-sicilia-l68-enti-pubblici-messina",
+      "message": "fetch failed"
     }
   ]
 }
