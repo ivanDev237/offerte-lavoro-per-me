@@ -1,88 +1,36 @@
 {
-  "generated_at": "2026-10-23T11:13:55.340Z",
+  "generated_at": "2026-10-23T16:42:38.548Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "f502720ad942b7b3df1d2a2653a13f3c6fc88483",
+  "catalog_hash": "07d86414e4e11293dd7264a8fcd63de46021f355",
   "counts": {
-    "nuovi": 6,
+    "nuovi": 2,
     "aggiornati": 36
   },
   "nuovi": [
     {
-      "id": "linkedin-orfani-guerra-messina-agente-di-commercio-monomandatario-div-health-and-beauty-golmar",
-      "nome": "Agente di commercio Monomandatario | div. Health and Beauty — Golmar",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-monomandatario-div-health-and-beauty-at-golmar-4482862282",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "dd07400635f6ebe6bd8e76190fb36c1345106d19",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-monomandatario-food-golmar",
-      "nome": "Agente di Commercio Monomandatario | Food — Golmar",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-monomandatario-food-at-golmar-4482779250",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "578f8e43054eb24393a3d545b987ccbfad1baeb4",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-martinsicuro-2-posti-di-istruttore-amministrativo-contabile",
-      "nome": "Comune di Martinsicuro, 2 posti di istruttore amministrativo contabile",
+      "id": "gazzetta-via-concorsipubblici-localita-modena-occupazione-istruttore-contabile-posti-1",
+      "nome": "Località Modena Occupazione istruttore contabile Posti 1",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-martinsicuro-concorso-istruttore-amministrativo-contabile-teramo-2026",
-      "data_pubblicazione": "2026-11-21",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/modena",
+      "data_pubblicazione": "",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "5eb77e98dbedc2a8b260359fd68d2f227d6ff9a4",
+      "hash_contenuto": "ae3e4a4035e9b44310944254542a61d1ee933992",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
     },
     {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-posti-2",
-      "nome": "Località Milano Occupazione istruttore amministrativo Posti 2",
+      "id": "gazzetta-via-concorsipubblici-unione-dei-comuni-del-distretto-ceramico-1-istruttore-contabile",
+      "nome": "Unione Dei Comuni del Distretto Ceramico , 1 Istruttore Contabile",
       "tipo": "concorso",
       "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
-      "data_pubblicazione": "",
+      "link_ufficiale": "https://www.concorsipubblici.com/unione-dei-comuni-del-distretto-ceramico-concorso-istruttore-contabile-modena-2026-2",
+      "data_pubblicazione": "2026-11-23",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "c32d5cba3bcfa1bbf6863dbc920e667238fdea5c",
+      "hash_contenuto": "0e204d75727a934e22b241690cec08eed81df2a9",
       "notifica_topics": [
         "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-teramo-occupazione-collaboratore-amministrativo-posti-1",
-      "nome": "Località Teramo Occupazione collaboratore amministrativo Posti 1",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/teramo",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "984a968d9e74eae05fd875ca4b35cb7c426328f3",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-visual-merchandiser-alcott-catania-alcott",
-      "nome": "VISUAL MERCHANDISER | ALCOTT CATANIA — ALCOTT",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/visual-merchandiser-alcott-catania-at-alcott-4475552514",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "ed1af4a86a5e1d2641002a3fe7b024b438a750c1",
-      "notifica_topics": [
-        "categorie_protette"
       ]
     }
   ],
@@ -391,10 +339,10 @@
       "nome": "Contabile — LS MEDICAL",
       "tipo": "lavoro",
       "ente": "LinkedIn",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-ls-medical-4480651254",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/contabile-at-ls-medical-4471879264",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-lavoro-messina",
-      "hash_contenuto": "8e93d0635784b5ccb74d24f956f4c97487dc575b",
+      "hash_contenuto": "34adac31180214c01a7167e4dab1f24cf2589bb2",
       "notifica_topics": [
         "offerte_lavoro"
       ]
@@ -556,5 +504,18 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
+    }
+  ]
 }
