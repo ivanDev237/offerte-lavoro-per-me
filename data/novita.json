@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-10-24T10:32:43.467Z",
+  "generated_at": "2026-10-24T15:36:14.951Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "82c4050c452a1d9be7fe98329dea505d6a9d2bd7",
+  "catalog_hash": "63941cfa4606dd24cff0af4619ea2a13bfd6d5e3",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 2,
     "aggiornati": 36
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "linkedin-orfani-guerra-sicilia-consulente-di-successo-finanziario-opportunita-di-crescita-continua-piramide-srl",
+      "nome": "Consulente di Successo Finanziario (opportunità di crescita continua) — Piramide srl",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-di-successo-finanziario-opportunit%C3%A0-di-crescita-continua-at-piramide-srl-4304097147",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "e5c01716c1b601c977fd726145a9d405aaad3e0f",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-consulente-finanziario-mario-torregrossa",
+      "nome": "Consulente finanziario — Mario Torregrossa",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/consulente-finanziario-4481022792",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "d1ffcff0e9a3e46e53d1f6f6997558901d8d0939",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -484,10 +511,6 @@
     },
     {
       "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
