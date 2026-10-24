@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-23T21:09:27.446Z",
+  "generated_at": "2026-10-24T03:50:40.471Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "1ec6e4f84b1c7ba465d9609917ec1ad7b03558ef",
+  "catalog_hash": "82c4050c452a1d9be7fe98329dea505d6a9d2bd7",
   "counts": {
     "nuovi": 0,
-    "aggiornati": 37
+    "aggiornati": 36
   },
   "nuovi": [],
   "aggiornati": [
@@ -117,10 +117,10 @@
       "nome": "Agente di Commercio Monomandatario | Food — Golmar",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-monomandatario-food-at-golmar-4483117214",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-monomandatario-food-at-golmar-4482779250",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "19a5ee23dd4bba8e73f5d15c4007984f0f3de51b",
+      "hash_contenuto": "578f8e43054eb24393a3d545b987ccbfad1baeb4",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -277,19 +277,6 @@
       "data_pubblicazione": "2026-11-16",
       "fonte_scraper": "gazzetta-via-concorsipubblici",
       "hash_contenuto": "32a2b9b3092981e18b4af1eff9e004452759bc9a",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-comune-di-san-dona-di-piave-1-istruttore-servizi-amministrativo-contabili",
-      "nome": "Comune di San Dona’ di Piave , 1 Istruttore Servizi Amministrativo-contabili",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-san-dona-di-piave-concorso-istruttore-amministrativo-contabile-venezia-2026",
-      "data_pubblicazione": "2026-10-23",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "6f559332fbe3693d75d7cd5d4d541f1dd5289b5e",
       "notifica_topics": [
         "concorsi_pubblici"
       ]
@@ -492,20 +479,12 @@
   ],
   "errori_fonti": [
     {
-      "source": "linkedin-lavoro-messina",
-      "message": "HTTP 429"
-    },
-    {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
-    },
-    {
       "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
     },
     {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }
