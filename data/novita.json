@@ -1,36 +1,23 @@
 {
-  "generated_at": "2026-10-25T03:49:22.006Z",
+  "generated_at": "2026-10-25T10:58:15.009Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "36309fa335873572fb7d80cea86f1be35598dd51",
+  "catalog_hash": "908e9d5ca0756b4a879194522c1b5e94953fc068",
   "counts": {
-    "nuovi": 2,
-    "aggiornati": 37
+    "nuovi": 1,
+    "aggiornati": 36
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-sorrento-concorso-per-2-collaboratori-staff-del-sindaco-a-tempo-determ",
-      "nome": "Comune di Sorrento, concorso per 2 collaboratori staff del Sindaco a tempo determinato",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sorrento-concorso-collaboratore-di-amministrazione-istruttore-amministrativo-napoli-2026",
-      "data_pubblicazione": "2026-10-24",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "f463cac4fd37b9e391284efcb8ab7f29f2407c8d",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-napoli-occupazione-collaboratore-di-amministrazione-istruttore-amminist",
-      "nome": "Località Napoli Occupazione collaboratore di amministrazione istruttore amministrativo Posti 2",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/napoli",
+      "id": "linkedin-orfani-guerra-sicilia-barman-intrecci-ristorante",
+      "nome": "Barman — INTRECCI RISTORANTE",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/barman-at-intrecci-ristorante-4481080696",
       "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "b90569abec613076c5b337f269f1f7854037f448",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "12d920bbfa06b38aa101f8b674b3abe93c0ece1f",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     }
   ],
@@ -361,19 +348,6 @@
       ]
     },
     {
-      "id": "concorsipubblici-sicilia-istituto-di-alta-formazione-artistica-e-musicale-1-assistente-amministrativo",
-      "nome": "Istituto di Alta Formazione Artistica e Musicale, 1 assistente amministrativo",
-      "tipo": "concorso",
-      "ente": "ConcorsiPubblici.com - Sicilia",
-      "link_ufficiale": "https://www.concorsipubblici.com/istituto-di-alta-formazione-artistica-e-musicale-concorso-assistente-amministrativo-catania-2026-0",
-      "data_pubblicazione": "2026-10-24",
-      "fonte_scraper": "concorsipubblici-sicilia",
-      "hash_contenuto": "cf5f7e352bb4a1ff81cd4dfc1b78e4ca0e4a301a",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-mapping-data-collection-driver-tsmg-holding",
       "nome": "Mapping Data Collection Driver — TSMG Holding",
       "tipo": "categoria_protetta",
@@ -517,5 +491,10 @@
       ]
     }
   ],
-  "errori_fonti": []
+  "errori_fonti": [
+    {
+      "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    }
+  ]
 }
