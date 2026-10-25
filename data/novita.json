@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-10-25T10:58:15.009Z",
+  "generated_at": "2026-10-25T15:46:25.301Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "908e9d5ca0756b4a879194522c1b5e94953fc068",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 36
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-sicilia-barman-intrecci-ristorante",
-      "nome": "Barman — INTRECCI RISTORANTE",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/barman-at-intrecci-ristorante-4481080696",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "12d920bbfa06b38aa101f8b674b3abe93c0ece1f",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -491,10 +477,5 @@
       ]
     }
   ],
-  "errori_fonti": [
-    {
-      "source": "linkedin-orfani-guerra-messina",
-      "message": "HTTP 429"
-    }
-  ]
+  "errori_fonti": []
 }
