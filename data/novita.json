@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-10-25T15:46:25.301Z",
+  "generated_at": "2026-10-25T20:33:41.316Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "908e9d5ca0756b4a879194522c1b5e94953fc068",
+  "catalog_hash": "0fb4ebd1258e30a68219842fe5787288020455d9",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 2,
     "aggiornati": 36
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-teglio-1-istruttore-amministrativo-contabile",
+      "nome": "Comune di Teglio, 1 istruttore amministrativo contabile",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-teglio-concorso-istruttore-amministrativo-contabile-sondrio-2026",
+      "data_pubblicazione": "2026-11-19",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "8baac6eee9f0b9b3bf801032dd5ffe879cde707b",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "linkedin-orfani-guerra-sicilia-ottico-ottica-randazzo",
+      "nome": "Ottico — Ottica randazzo",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/ottico-4483373373",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "ca2f8130872ead0d98fd0b0afb89cdb274790830",
+      "notifica_topics": [
+        "categorie_protette"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
