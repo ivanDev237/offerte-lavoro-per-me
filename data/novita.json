@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-10-24T20:26:32.529Z",
+  "generated_at": "2026-10-25T03:49:22.006Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "a536373d32dc8f1a87d2023ab402fb494ac6652c",
+  "catalog_hash": "36309fa335873572fb7d80cea86f1be35598dd51",
   "counts": {
-    "nuovi": 0,
+    "nuovi": 2,
     "aggiornati": 37
   },
-  "nuovi": [],
+  "nuovi": [
+    {
+      "id": "gazzetta-via-concorsipubblici-comune-di-sorrento-concorso-per-2-collaboratori-staff-del-sindaco-a-tempo-determ",
+      "nome": "Comune di Sorrento, concorso per 2 collaboratori staff del Sindaco a tempo determinato",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-sorrento-concorso-collaboratore-di-amministrazione-istruttore-amministrativo-napoli-2026",
+      "data_pubblicazione": "2026-10-24",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "f463cac4fd37b9e391284efcb8ab7f29f2407c8d",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
+      "id": "gazzetta-via-concorsipubblici-localita-napoli-occupazione-collaboratore-di-amministrazione-istruttore-amminist",
+      "nome": "Località Napoli Occupazione collaboratore di amministrazione istruttore amministrativo Posti 2",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/napoli",
+      "data_pubblicazione": "",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "b90569abec613076c5b337f269f1f7854037f448",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    }
+  ],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -87,19 +114,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
-      "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-a-punto-vendita-pt-20-ore-bronte-at-gens-aurea-s-p-a-4451589786",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "7a490901874d64ad8fa18030526ecc432e1f509d",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-sicilia-agente-di-commercio-messina-reca-italia-srl",
       "nome": "Agente di commercio - Messina — RECA Italia Srl",
       "tipo": "categoria_protetta",
@@ -117,10 +131,10 @@
       "nome": "Agente di commercio Monomandatario | div. Health and Beauty — Golmar",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-monomandatario-div-health-and-beauty-at-golmar-4483104535",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/agente-di-commercio-monomandatario-div-health-and-beauty-at-golmar-4482862282",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "08c9d75f57d735603b2a7c720b1bc9ed8314a1dd",
+      "hash_contenuto": "dd07400635f6ebe6bd8e76190fb36c1345106d19",
       "notifica_topics": [
         "categorie_protette"
       ]
@@ -344,6 +358,19 @@
       "hash_contenuto": "7174707ff328ca2baa5515e01b00d5792ffb8239",
       "notifica_topics": [
         "categorie_protette"
+      ]
+    },
+    {
+      "id": "concorsipubblici-sicilia-istituto-di-alta-formazione-artistica-e-musicale-1-assistente-amministrativo",
+      "nome": "Istituto di Alta Formazione Artistica e Musicale, 1 assistente amministrativo",
+      "tipo": "concorso",
+      "ente": "ConcorsiPubblici.com - Sicilia",
+      "link_ufficiale": "https://www.concorsipubblici.com/istituto-di-alta-formazione-artistica-e-musicale-concorso-assistente-amministrativo-catania-2026-0",
+      "data_pubblicazione": "2026-10-24",
+      "fonte_scraper": "concorsipubblici-sicilia",
+      "hash_contenuto": "cf5f7e352bb4a1ff81cd4dfc1b78e4ca0e4a301a",
+      "notifica_topics": [
+        "concorsi_pubblici"
       ]
     },
     {
