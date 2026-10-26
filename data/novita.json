@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-10-25T20:33:41.316Z",
+  "generated_at": "2026-10-26T03:53:22.814Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "0fb4ebd1258e30a68219842fe5787288020455d9",
+  "catalog_hash": "aec182f35587b21db757eb841fc90d93822b972c",
   "counts": {
     "nuovi": 2,
-    "aggiornati": 36
+    "aggiornati": 35
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-comune-di-teglio-1-istruttore-amministrativo-contabile",
-      "nome": "Comune di Teglio, 1 istruttore amministrativo contabile",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-teglio-concorso-istruttore-amministrativo-contabile-sondrio-2026",
-      "data_pubblicazione": "2026-11-19",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "8baac6eee9f0b9b3bf801032dd5ffe879cde707b",
+      "id": "linkedin-orfani-guerra-sicilia-barista-orlando-group-srl-unipersonale",
+      "nome": "Barista — orlando group srl unipersonale",
+      "tipo": "categoria_protetta",
+      "ente": "LinkedIn — Orfani di guerra equiparati",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/barista-4481406099",
+      "data_pubblicazione": "",
+      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "hash_contenuto": "659a6f83d1a7b1a7c112b8e869d20fa6ba701bf5",
       "notifica_topics": [
-        "concorsi_pubblici"
+        "categorie_protette"
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-ottico-ottica-randazzo",
-      "nome": "Ottico — Ottica randazzo",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/ottico-4483373373",
+      "id": "gazzetta-via-concorsipubblici-localita-sondrio-occupazione-istruttore-amministrativo-posti-1",
+      "nome": "Località Sondrio Occupazione istruttore amministrativo Posti 1",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/sondrio",
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "ca2f8130872ead0d98fd0b0afb89cdb274790830",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "fa5df3a1f43b60ea5c622dafac715c23757feea6",
       "notifica_topics": [
-        "categorie_protette"
+        "concorsi_pubblici"
       ]
     }
   ],
@@ -309,6 +309,19 @@
       ]
     },
     {
+      "id": "gazzetta-via-concorsipubblici-comune-di-morbegno-1-istruttore-amministrativo",
+      "nome": "Comune di Morbegno, 1 Istruttore Amministrativo",
+      "tipo": "concorso",
+      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
+      "link_ufficiale": "https://www.concorsipubblici.com/comune-di-morbegno-concorso-istruttore-amministrativo-sondrio-2026",
+      "data_pubblicazione": "2026-10-25",
+      "fonte_scraper": "gazzetta-via-concorsipubblici",
+      "hash_contenuto": "7be0071f4bf1a066098addd80659b4a7c837b02e",
+      "notifica_topics": [
+        "concorsi_pubblici"
+      ]
+    },
+    {
       "id": "linkedin-orfani-guerra-sicilia-concorso-per-titoli-ed-esami-per-il-reclutamento-a-tempo-pieno-ed-indeterminato-",
       "nome": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO DI MUSICA V. BELLINI DI CALTANISSETTA SETTORE ARTISTICO DISCIPLINARE AFAM010 CORNO — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
@@ -413,19 +426,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-stabilizzazione-n-6-unita-con-profilo-assistente-sociale-dipartimento-della-funz",
-      "nome": "STABILIZZAZIONE N. 6 UNITA' CON PROFILO ASSISTENTE SOCIALE — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stabilizzazione-n-6-unita-con-profilo-assistente-sociale-at-dipartimento-della-funzione-pubblica-4461126750",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "532dcebf7ec32120a93b5525ff1334060b66fd23",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-stabilizzazione-n-6-unita-con-profilo-assistente-sociale-dipartimento-della-funz",
       "nome": "STABILIZZAZIONE N. 6 UNITA' CON PROFILO ASSISTENTE SOCIALE — Dipartimento della Funzione Pubblica",
       "tipo": "categoria_protetta",
@@ -434,19 +434,6 @@
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
       "hash_contenuto": "359c35d1cdea9d19438f3c4592bbe8bfd37d9e43",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-messina-stage-addetto-a-vendite-tommy-hilfiger-taormina-gifrab-italia-s-p-a",
-      "nome": "STAGE ADDETTO/A VENDITE - TOMMY HILFIGER (TAORMINA) — Gifrab Italia S.p.A.",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stage-addetto-a-vendite-tommy-hilfiger-taormina-at-gifrab-italia-s-p-a-4460022403",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "692cfa4ecaae7ab6a66637c309d047be2eff4512",
       "notifica_topics": [
         "categorie_protette"
       ]
