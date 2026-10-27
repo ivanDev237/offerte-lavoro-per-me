@@ -1,10 +1,10 @@
 {
   "ultimo_aggiornamento": "2026-10-27",
-  "versione": 456,
+  "versione": 457,
   "regione_focus": "sicilia",
   "nota": "Esempi di partenza tarati sul profilo. Gli annunci reali e le scadenze cambiano spesso: verifica sempre il link ufficiale prima di candidarti.",
-  "catalog_hash": "f40686e0fc4f96ebf480a2223f097e4dc47bf729",
-  "generated_at": "2026-10-27T17:43:47.039Z",
+  "catalog_hash": "3ad9e7b8f4f2a0b0f647c25705fcc4c1d75c2669",
+  "generated_at": "2026-10-27T21:56:58.548Z",
   "generated_by": "scripts/scraper/run.js",
   "offerte": [
     {
@@ -1481,7 +1481,7 @@
       "hash_contenuto": "abb87461eedab33210d483ad33fddf96e733c748"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
+      "id": "linkedin-orfani-guerra-messina-addetto-a-punto-vendita-pt-20-ore-bronte-gens-aurea-s-p-a",
       "nome": "Addetto/a punto vendita (PT 20 ore) - Bronte — GENS AUREA S.p.A.",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -1495,7 +1495,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Bronte, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -1523,7 +1523,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-10-27",
       "notifica_topics": [
         "categorie_protette"
@@ -4738,7 +4738,7 @@
       "hash_contenuto": "08cdaf7c63680ba3957a799ad20d07d729ac4f8d"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-bando-40-2026-avviso-di-mobilita-esterna-volontaria-ai-sensi-dell-art-30-del-d-l",
+      "id": "linkedin-orfani-guerra-messina-bando-40-2026-avviso-di-mobilita-esterna-volontaria-ai-sensi-dell-art-30-del-d-l",
       "nome": "Bando 40/2026 - Avviso di mobilità esterna volontaria ai sensi dell’art. 30 del D. Lgs. 165/2001, per la copertura di 1 Collaboratore TER – CCNL Istruzione e Ricerca - presso l'OGS. — Dipartimento della Funzione Pubblica",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -4752,7 +4752,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Messina, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -4780,7 +4780,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-10-27",
       "notifica_topics": [
         "categorie_protette"
@@ -5006,7 +5006,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-10",
+          "data": "2026-12-11",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -5031,7 +5031,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-26",
+      "rilevato_il": "2026-10-27",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -5589,7 +5589,7 @@
       "hash_contenuto": "abead1c1f7aab75d5e7061ab88970e79fa5b1675"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
+      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-capofaro-resort-relais-chateaux",
       "nome": "Chef de Rang (M/W) — Capofaro Resort Relais & Chateaux",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -5603,7 +5603,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Leni, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -5631,7 +5631,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-10-27",
       "notifica_topics": [
         "categorie_protette"
@@ -5639,7 +5639,7 @@
       "hash_contenuto": "af6e336bdf92abcbf092b713bdca471d7b104d3a"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-chef-de-rang-m-w-relais-chateaux",
+      "id": "linkedin-orfani-guerra-messina-chef-de-rang-m-w-relais-chateaux",
       "nome": "Chef de Rang (M/W) — Relais & Châteaux",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -5653,7 +5653,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Malfa, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -5681,7 +5681,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-10-27",
       "notifica_topics": [
         "categorie_protette"
@@ -10717,7 +10717,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-10",
+          "data": "2026-12-11",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -10742,7 +10742,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-26",
+      "rilevato_il": "2026-10-27",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -11287,7 +11287,7 @@
       "hash_contenuto": "35079b86df3230ac6981777adeb3123ec6218b38"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-front-office-manager-capofaro-resort-relais-chateaux",
+      "id": "linkedin-orfani-guerra-messina-front-office-manager-capofaro-resort-relais-chateaux",
       "nome": "Front Office Manager — Capofaro Resort Relais & Chateaux",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -11301,7 +11301,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Leni, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -11329,7 +11329,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-10-27",
       "notifica_topics": [
         "categorie_protette"
@@ -11337,7 +11337,7 @@
       "hash_contenuto": "2270aefe1ca9292da92c339ee3eb5a0c120ff924"
     },
     {
-      "id": "linkedin-orfani-guerra-sicilia-front-office-manager-relais-chateaux",
+      "id": "linkedin-orfani-guerra-messina-front-office-manager-relais-chateaux",
       "nome": "Front Office Manager — Relais & Châteaux",
       "ente": "LinkedIn — Orfani di guerra equiparati",
       "tipo": "categoria_protetta",
@@ -11351,7 +11351,7 @@
       "contratto": "",
       "retribuzione": "",
       "descrizione_breve": "Sede: Malfa, Sicily, Italy",
-      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Sicilia.",
+      "partecipazione": "Verifica i requisiti sull'annuncio ufficiale. Sede indicativa: Messina.",
       "scadenze": [
         {
           "fase": "Fine validità stimata",
@@ -11379,7 +11379,7 @@
         "sicilia"
       ],
       "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
+      "fonte_scraper": "linkedin-orfani-guerra-messina",
       "rilevato_il": "2026-10-27",
       "notifica_topics": [
         "categorie_protette"
@@ -17846,7 +17846,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-10",
+          "data": "2026-12-11",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -17871,7 +17871,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-26",
+      "rilevato_il": "2026-10-27",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -18596,7 +18596,7 @@
       "scadenze": [
         {
           "fase": "Fine validità stimata",
-          "data": "2026-12-10",
+          "data": "2026-12-11",
           "note": "Calcolata dal titolo/testo del bando"
         }
       ],
@@ -18621,7 +18621,7 @@
       ],
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "rilevato_il": "2026-10-26",
+      "rilevato_il": "2026-10-27",
       "notifica_topics": [
         "categorie_protette"
       ],
@@ -20037,12 +20037,12 @@
   "changed": true,
   "source_errors": [
     {
-      "source": "regione-sicilia-concorsi",
-      "message": "fetch failed"
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
     },
     {
-      "source": "regione-sicilia-l68-enti-pubblici-messina",
-      "message": "fetch failed"
+      "source": "linkedin-orfani-guerra-sicilia",
+      "message": "HTTP 429"
     }
   ]
 }
