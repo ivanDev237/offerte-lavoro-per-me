@@ -1,75 +1,23 @@
 {
-  "generated_at": "2026-10-26T22:25:41.971Z",
+  "generated_at": "2026-10-27T04:15:17.869Z",
   "source_run": "github-actions-scraper",
-  "catalog_hash": "e2be79d1087bac3c59c670fbbcd26972c536dc6d",
+  "catalog_hash": "572066387124ccaf18013973917127b73f2be000",
   "counts": {
-    "nuovi": 5,
-    "aggiornati": 34
+    "nuovi": 1,
+    "aggiornati": 33
   },
   "nuovi": [
     {
-      "id": "gazzetta-via-concorsipubblici-azienda-socio-sanitaria-territoriale-del-garda-di-desenzano-del-garda-11-posti-p",
-      "nome": "Azienda Socio-Sanitaria Territoriale del Garda di Desenzano del Garda, 11 posti per coadiutore amministrativo fisioterapista",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/azienda-socio-sanitaria-territoriale-del-garda-di-desenzano-del-garda-concorso-coadiutore",
-      "data_pubblicazione": "2026-11-22",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "e6de940993e717f26e9472297442ea571d4e1594",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-coadiutore-amministrativo-fisioterapista",
-      "nome": "coadiutore amministrativo fisioterapista",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/occupazione/pro/fisioterapista-964",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "7230b60477e917fb005d0327c8cd6220723bcb05",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "linkedin-orfani-guerra-sicilia-impiegato-amministrativo-applavoro",
-      "nome": "Impiegato amministrativo — AppLavoro",
+      "id": "linkedin-orfani-guerra-sicilia-addetto-alla-friggitrice-f-lli-caruso-srl",
+      "nome": "Addetto alla friggitrice — F.lli Caruso srl",
       "tipo": "categoria_protetta",
       "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/impiegato-amministrativo-at-applavoro-4481801093",
+      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-alla-friggitrice-4483717928",
       "data_pubblicazione": "",
       "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "20e209882e7eac55f840821b12dad0867bbefc5f",
+      "hash_contenuto": "d9b5a899cb7c34b042a9790eb6a70648a10c33dc",
       "notifica_topics": [
         "categorie_protette"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-brescia-occupazione-coadiutore-amministrativo-fisioterapista-posti-11",
-      "nome": "Località Brescia Occupazione coadiutore amministrativo fisioterapista Posti 11",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/brescia",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "91ef11380d1357c877d75b14cf6ad63f66380a5a",
-      "notifica_topics": [
-        "concorsi_pubblici"
-      ]
-    },
-    {
-      "id": "gazzetta-via-concorsipubblici-localita-milano-occupazione-istruttore-amministrativo-posti-3",
-      "nome": "Località Milano Occupazione istruttore amministrativo Posti 3",
-      "tipo": "concorso",
-      "ente": "Gazzetta Ufficiale (via ConcorsiPubblici.com)",
-      "link_ufficiale": "https://www.concorsipubblici.com/concorsi/regione/loc/milano",
-      "data_pubblicazione": "",
-      "fonte_scraper": "gazzetta-via-concorsipubblici",
-      "hash_contenuto": "56eb0872e0fe95962ff4b5ad5b96a7469aa988c9",
-      "notifica_topics": [
-        "concorsi_pubblici"
       ]
     }
   ],
@@ -452,19 +400,6 @@
       ]
     },
     {
-      "id": "linkedin-orfani-guerra-messina-stabilizzazione-n-6-unita-con-profilo-assistente-sociale-dipartimento-della-funz",
-      "nome": "STABILIZZAZIONE N. 6 UNITA' CON PROFILO ASSISTENTE SOCIALE — Dipartimento della Funzione Pubblica",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/stabilizzazione-n-6-unita-con-profilo-assistente-sociale-at-dipartimento-della-funzione-pubblica-4461130728",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-messina",
-      "hash_contenuto": "359c35d1cdea9d19438f3c4592bbe8bfd37d9e43",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    },
-    {
       "id": "linkedin-orfani-guerra-messina-tecnico-a-di-laboratorio-metalmeccanico-archimede-agenzia-per-il-lavoro-filiale-",
       "nome": "TECNICO/a DI LABORATORIO METALMECCANICO — Archimede - Agenzia per il lavoro -filiale di Udine",
       "tipo": "categoria_protetta",
@@ -518,6 +453,10 @@
     }
   ],
   "errori_fonti": [
+    {
+      "source": "linkedin-lavoro-messina",
+      "message": "HTTP 429"
+    },
     {
       "source": "linkedin-orfani-guerra-messina",
       "message": "HTTP 429"
