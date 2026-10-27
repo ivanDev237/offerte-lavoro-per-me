@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-10-27T04:15:17.869Z",
+  "generated_at": "2026-10-27T11:48:13.804Z",
   "source_run": "github-actions-scraper",
   "catalog_hash": "572066387124ccaf18013973917127b73f2be000",
   "counts": {
-    "nuovi": 1,
+    "nuovi": 0,
     "aggiornati": 33
   },
-  "nuovi": [
-    {
-      "id": "linkedin-orfani-guerra-sicilia-addetto-alla-friggitrice-f-lli-caruso-srl",
-      "nome": "Addetto alla friggitrice — F.lli Caruso srl",
-      "tipo": "categoria_protetta",
-      "ente": "LinkedIn — Orfani di guerra equiparati",
-      "link_ufficiale": "https://it.linkedin.com/jobs/view/addetto-alla-friggitrice-4483717928",
-      "data_pubblicazione": "",
-      "fonte_scraper": "linkedin-orfani-guerra-sicilia",
-      "hash_contenuto": "d9b5a899cb7c34b042a9790eb6a70648a10c33dc",
-      "notifica_topics": [
-        "categorie_protette"
-      ]
-    }
-  ],
+  "nuovi": [],
   "aggiornati": [
     {
       "id": "linkedin-orfani-guerra-messina-abarc-selezione-pubblica-per-titoli-per-la-formulazione-della-graduatoria-d-isti",
@@ -459,6 +445,10 @@
     },
     {
       "source": "linkedin-orfani-guerra-messina",
+      "message": "HTTP 429"
+    },
+    {
+      "source": "linkedin-orfani-guerra-sicilia",
       "message": "HTTP 429"
     }
   ]
